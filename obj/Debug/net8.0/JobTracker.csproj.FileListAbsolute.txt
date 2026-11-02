@@ -1,0 +1,14 @@
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.AssemblyInfoInputs.cache
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.AssemblyInfo.cs
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.csproj.CoreCompileInputs.cache
+C:\Users\vryma\New folder (20)\bin\Debug\net8.0\JobTracker.exe
+C:\Users\vryma\New folder (20)\bin\Debug\net8.0\JobTracker.deps.json
+C:\Users\vryma\New folder (20)\bin\Debug\net8.0\JobTracker.runtimeconfig.json
+C:\Users\vryma\New folder (20)\bin\Debug\net8.0\JobTracker.dll
+C:\Users\vryma\New folder (20)\bin\Debug\net8.0\JobTracker.pdb
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.dll
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\refint\JobTracker.dll
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.pdb
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\JobTracker.genruntimeconfig.cache
+C:\Users\vryma\New folder (20)\obj\Debug\net8.0\ref\JobTracker.dll

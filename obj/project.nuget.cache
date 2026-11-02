@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZ/dD9iJe+E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vryma\\New folder (20)\\JobTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vryma\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\vryma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\vryma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\vryma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
